@@ -1,5 +1,5 @@
 # Arduino-RotaryEncoder
-Routines and library for reading a push button encoder on the Ardruino Mega 2560
+Routines for reading a push button encoder on the Ardruino Mega 2560 for the purpose of menu navigation.
 
 :Author: savvyinsights
 :Email: greg@savvyinsights.io
