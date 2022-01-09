@@ -2,7 +2,7 @@
 Routines for reading a push button encoder on the Ardruino Mega 2560 for the purpose of menu navigation.
 
 :Author: savvyinsights
-:Email: greg@savvyinsights.io
+:Email: 
 :Date: 08/01/2022
 :Revision: version 1.0
 :License: Public Domain
